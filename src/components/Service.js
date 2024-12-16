@@ -2,7 +2,7 @@ import React from "react";
 import "../App.css";
 import img from "../new/Home-10-icon-img1 1.png";
 import img2 from "../new/Home-10-icon-img2 1.png";
-import img3 from "../new/image 1.png";
+import img3 from "../new/image 1.png"; 
 import img4 from "../new/image 2.png";
 import img5 from "../new/image 3.png";
 

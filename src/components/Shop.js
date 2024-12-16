@@ -2,7 +2,7 @@ import React from "react";
 import "../App.css";
 
 const Shop = () => {
-  return (
+  return ( 
     <div id="shop">
       <div className="container-fluid container4">
         <div className="co4">

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll";
-
+ 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 

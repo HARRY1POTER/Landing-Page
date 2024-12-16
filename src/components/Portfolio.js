@@ -62,7 +62,7 @@ const Portfolio = () => {
       <div class="container container6">
         <div class="row">
           <div class="col-lg-6 col-sm-12 co7">
-            <img src={img3} alt="img" class="img-fluid" />
+            <img src={img3} alt="img" class="img-fluid" /> 
           </div>
           <div class="col-lg-6 col-sm-12 co7a">
             <div class="hi2">
