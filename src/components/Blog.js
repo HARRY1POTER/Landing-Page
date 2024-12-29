@@ -7,7 +7,7 @@ const Blog = () => {
         <p class="h12">
           Developing a Better Future <br />
           for All Of Users.
-        </p>
+        </p> 
         <button class="button">View More</button>
       </div>
     </div>

@@ -62,7 +62,7 @@ const Footer = () => {
               <hr />
               <p>SUBSCRIBE</p>
             </div>
-          </div> 
+          </div>
         </div>
         <br />
         <br />

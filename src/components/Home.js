@@ -2,7 +2,7 @@ import React from "react";
 import "../App.css";
 import img from "../new/Home-10-rev-img 1.png";
 
-const Home = () => { 
+const Home = () => {
   return (
     <div id="home">
       <div className="container-fluid container1">

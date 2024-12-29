@@ -2,11 +2,11 @@ import React from "react";
 import "../App.css";
 
 const Shop = () => {
-  return ( 
+  return (
     <div id="shop">
       <div className="container-fluid container4">
         <div className="co4">
-          <p>INNOVATIONAL</p>
+          <p>INNOVATIONAL</p> 
           <h1>
             A Novel and Practical <br />
             Desgine for Real Success

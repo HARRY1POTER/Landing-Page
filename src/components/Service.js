@@ -2,12 +2,12 @@ import React from "react";
 import "../App.css";
 import img from "../new/Home-10-icon-img1 1.png";
 import img2 from "../new/Home-10-icon-img2 1.png";
-import img3 from "../new/image 1.png"; 
+import img3 from "../new/image 1.png";
 import img4 from "../new/image 2.png";
 import img5 from "../new/image 3.png";
 
 const Service = () => {
-  return (
+  return ( 
     <div id="service">
       <div class="container container2 my-5">
         <p class="p1">TRULY MORDEN</p>
